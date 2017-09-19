@@ -1,0 +1,9 @@
+{
+  "name": "discord-bot-js",
+  "version": "0.0.0",
+  "description": "DiscordBotJs",
+  "main": "app.js",
+  "author": {
+    "name": "asus"
+  }
+}
