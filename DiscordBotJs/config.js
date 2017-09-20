@@ -1,0 +1,18 @@
+﻿var config = {};
+config.TOKEN = "MzU0MzkyMzUzMjkwNzE1MTM4.DI9ltg.k9ZC5sT1_0XW2REnVuBRzi-18ac";
+config.LOGDOSYASI = "Log.txt";
+config.VERITABANI = "Veriler.sqlite";
+config.TABLO = "Tablo";
+config.ROW_KULLANICI_ID = "kId";
+config.ROW_PUAN = "puan";
+config.TABLOOLUSTUR = `CREATE TABLE IF NOT EXISTS {TABLO} ({ROW_KULLANICI_ID} int, {ROW_PUAN} int)`;
+config.FORGAMER = 136243252289470464;
+config.KEFARET = 309717542480510977;
+config.ECE = 268393086428643330;  
+config.CEMAL = 143660279287250944;
+config.YURUYENBASE = 256545309738532864;
+config.PAKUN = 291247416760467456;
+config.LUX = 325763309057998848;
+config.GUCKFOSU = 189807950741635072;
+
+module.exports = config;
