@@ -1,5 +1,5 @@
 ﻿var config = {};
-config.TOKEN = "MzU0MzkyMzUzMjkwNzE1MTM4.DI9ltg.k9ZC5sT1_0XW2REnVuBRzi-18ac";
+config.TOKEN = "<SECRET_TOKEN>";
 config.LOGDOSYASI = "Log.txt";
 config.VERITABANI = "Veriler.sqlite";
 config.TABLO = "Tablo";
